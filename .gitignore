@@ -1,4 +1,8 @@
-
+.vscode
+.vscode/ipch
+Makefile
+.vscode/launch.json
+.vscode/tasks.json
 # Prerequisites
 *.d
 
